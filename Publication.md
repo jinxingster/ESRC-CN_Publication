@@ -25,21 +25,5 @@ Joint papers Newcastle University Future Transport Team and South East China Uni
  drivers’ willingness to use the parking guidance information. KSCE Journal of Civil Engineering,
  19(7), pp.2098-2107. DOI:10.1007/s12205-015-0029-5
  
-Ji, Y., Tang, D., Blythe, P., Guo, W. and Wang, W., 2014. Short-term forecasting of available parking
-space using wavelet neural network model. IET Intelligent Transport Systems, 9(2), pp.202-209. DOI:
-10.1049/iet-its.2013.0184
-10.1007/s11771-014-2104-3
-its.2012.0167
-https://trid.trb.org/view/1279488
-DOI: 10.1049/iet-
-10.1155/2013/416267
-  Ji, Y.J., Tang, D.N., Guo, W.H., Blythe, P.T. and Wang, W., 2014. Forecasting available parking
- space with largest Lyapunov exponents method. Journal of Central South University, 21(4), pp.1624-
- 1632. DOI:
-  Ji, Y., Guo, W., Blythe, P., Tang, D. and Wang, W., 2013. Understanding drivers’ perspective on
- parking guidance information. IET Intelligent Transport Systems, 8(4), pp.398-406.
-   Ji, Y., Tang, D., Guo, W., Blythe, P.T. and Ren, G., 2013. Detection of outliers in a time series of
- available parking spaces. Mathematical Problems in Engineering, 2013. DOI:
-  Ji, Y., Guo, W., Blythe, P.T., Wang, W. and Deng, W., 2012. Design the parking guidance
- information for the drivers. In 19th World Congress on Intelligent Transport Systems. 2012, Vienna,
+ Ji, Y., Tang, D., Blythe, P., Guo, W. and Wang, W., 2014. Short-term forecasting of available parking space using wavelet   neural network model. IET Intelligent Transport Systems, 9(2), pp.202-209. DOI:10.1049/iet-its.2013.0184
  
