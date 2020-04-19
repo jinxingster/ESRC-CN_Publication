@@ -27,3 +27,7 @@ Joint papers Newcastle University Future Transport Team and South East China Uni
  
  Ji, Y., Tang, D., Blythe, P., Guo, W. and Wang, W., 2014. Short-term forecasting of available parking space using wavelet   neural network model. IET Intelligent Transport Systems, 9(2), pp.202-209. DOI:10.1049/iet-its.2013.0184
  
+ Ji, Y.J., Tang, D.N., Guo, W.H., Blythe, P.T. and Wang, W., 2014. Forecasting available parking space with largest Lyapunov exponents method. Journal of Central South University, 21(4), pp.1624-1632. DOI:10.1007/s11771-014-2104-3
+  
+ 
+ 
