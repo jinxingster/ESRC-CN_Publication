@@ -33,7 +33,7 @@ Joint papers Newcastle University Future Transport Team and South East China Uni
  
  Ji, Y., Tang, D., Guo, W., Blythe, P.T. and Ren, G., 2013. Detection of outliers in a time series of available parking spaces. Mathematical Problems in Engineering, 2013. DOI:10.1155/2013/416267
  
- Ji, Y., Guo, W., Blythe, P.T., Wang, W. and Deng, W., 2012. Design the parking guidance 
+ Ji, Y., Guo, W., Blythe, P.T., Wang, W. and Deng, W., 2012. Design the parking guidance information for the drivers. In19th ITS World CongressERTICO-ITS EuropeEuropean CommissionITS AmericaITS Asia-Pacific 2012.2012, Vienna, Austria. https://trid.trb.org/view/1279488
   
  
  
